@@ -1,0 +1,25 @@
+Iteration    50 | Cost: 4.467298e-001
+Iteration    50 | Cost: 5.521254e-001
+Iteration    50 | Cost: 4.703945e-001
+Iteration    50 | Cost: 4.378992e-001
+Iteration    50 | Cost: 4.804765e-001
+Iteration    50 | Cost: 4.770764e-001
+Iteration    50 | Cost: 5.362101e-001
+(Lamb=1)
+
+Iteration   500 | Cost: 3.175535e-001
+Iteration   500 | Cost: 3.135514e-001
+Iteration   500 | Cost: 3.116945e-001
+Iteration   500 | Cost: 3.140567e-001
+Iteration   500 | Cost: 3.106729e-001
+(Lamb=1)
+
+Iteration   500 | Cost: 1.215176e-002
+Iteration   500 | Cost: 1.265822e-002
+Iteration   500 | Cost: 1.205440e-002
+(Lamb=0.01)
+
+Iteration   500 | Cost: 9.868653e-001
+Iteration   500 | Cost: 9.911773e-001
+Iteration   500 | Cost: 9.863076e-001
+(Lamb=10)
